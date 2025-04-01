@@ -7,7 +7,7 @@
           "294CFWZTJ6.vn.coinmap.cm"
         ],
         "paths": [
-          "*"
+          "*", "/"
         ],
         "components": [
           {
