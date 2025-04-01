@@ -2,7 +2,7 @@
   {
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
-      "namespace": "vn.coinmap.cm",
+      "namespace": "android_app",
       "package_name": "vn.coinmap.cm",
       "sha256_cert_fingerprints": [
         "E9:AB:AC:13:BD:5C:EB:EA:A0:18:87:05:ED:2D:BE:BC:E3:D9:9A:A6:83:73:33:4F:45:DF:6E:11:FD:4A:8E:6D"
