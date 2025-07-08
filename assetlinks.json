@@ -3,9 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "vn.coinmap.cm",
+      "package_name": "vn.stockmap.android",
       "sha256_cert_fingerprints": [
-        "E9:AB:AC:13:BD:5C:EB:EA:A0:18:87:05:ED:2D:BE:BC:E3:D9:9A:A6:83:73:33:4F:45:DF:6E:11:FD:4A:8E:6D"
+        "31:C8:B0:63:FF:10:1D:B4:A7:62:E3:9D:36:56:B2:B9:BE:73:41:64:F4:94:B5:E6:ED:75:2B:C2:D8:82:BF:1D"
       ]
     }
   }
